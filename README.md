@@ -30,7 +30,7 @@ Nota: Asegúrate de tener una conexión a Internet activa para descargar los vid
 
 ## Capturas de pantalla
 
-![Captura](assts/screenshot.png)
+![Captura](assets/screenshot.png)
 
 ## Contribuciones
 
